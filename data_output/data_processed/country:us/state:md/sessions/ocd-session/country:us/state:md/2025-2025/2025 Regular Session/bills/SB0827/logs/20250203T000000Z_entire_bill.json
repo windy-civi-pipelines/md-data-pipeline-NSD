@@ -1,0 +1,116 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB0827",
+  "title": "Juvenile Law - Confinement and Restrictive Housing - Limitations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First Reading Judicial Proceedings",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/19 at 1:00 p.m.",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Love",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Love\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Benson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Benson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hettleman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hettleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Muse",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Muse\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 1107",
+      "legislative_session": "2025",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "First - Juvenile Law - Confinement and Restrictive Housing - Limitations",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2025RS/bills/sb/sb0827f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2025RS/fnotes/bil_0007/sb0827.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0827?ys=2025RS",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "date_effective": "October 1, 2025"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "scraped_at": "2025-07-28T21:09:20+00:00",
+  "_id": "214df564-6bf7-11f0-9f1f-a6884ecab6f1"
+}

@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB0312",
+  "title": "Natural Resources - State Parks - Maryland Golden Age Pass",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First Reading Education, Energy, and the Environment",
+      "date": "2025-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/11 at 1:00 p.m.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Simonaire",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Simonaire\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "First - Natural Resources - State Parks - Maryland Golden Age Pass",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2025RS/bills/sb/sb0312f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2025RS/fnotes/bil_0002/sb0312.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0312?ys=2025RS",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "date_effective": "October 1, 2025"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "scraped_at": "2025-07-28T21:07:20+00:00",
+  "_id": "d9ce7f42-6bf6-11f0-9f1f-a6884ecab6f1"
+}

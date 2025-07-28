@@ -1,0 +1,148 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB0582",
+  "title": "Sale of Residential Property - Taxes and Offers to Purchase (End Hedge Fund Control of Maryland Homes Act of 2025)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First Reading Budget and Taxation and Judicial Proceedings",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/11 at 1:00 p.m. (Judicial Proceedings)",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/19 at 1:00 p.m. (Budget and Taxation) and Hearing 2/11 at 1:00 p.m. (Judicial Proceedings)",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/19 at 1:00 p.m. (Budget and Taxation) and Hearing canceled (Judicial Proceedings)",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing canceled (Budget and Taxation) and Hearing canceled (Judicial Proceedings)",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/19 at 1:10 p.m. (Budget and Taxation) and Hearing canceled (Judicial Proceedings)",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing canceled (Budget and Taxation) and Hearing canceled (Judicial Proceedings)",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/26 at 1:00 p.m. (Budget and Taxation) and Hearing canceled (Judicial Proceedings)",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing canceled (Budget and Taxation) and Hearing canceled (Judicial Proceedings)",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Hearing 2/26 at 2:00 p.m. (Budget and Taxation) and Hearing canceled (Judicial Proceedings)",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Henson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Henson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 1428",
+      "legislative_session": "2025",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "First - Sale of Residential Property - Taxes and Offers to Purchase (End Hedge Fund Control of Maryland Homes Act of 2025)",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2025RS/bills/sb/sb0582f.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal and Policy Note",
+      "links": [
+        {
+          "url": "http://mgaleg.maryland.gov/2025RS/fnotes/bil_0002/sb0582.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0582?ys=2025RS",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "date_effective": "July 1, 2025"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:md/government",
+    "name": "Maryland",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:md"
+  },
+  "scraped_at": "2025-07-28T21:08:25+00:00",
+  "_id": "0035125e-6bf7-11f0-9f1f-a6884ecab6f1"
+}

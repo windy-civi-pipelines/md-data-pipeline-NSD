@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "First Reading Ways and Means",
+    "date": "2025-01-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0326"
+}

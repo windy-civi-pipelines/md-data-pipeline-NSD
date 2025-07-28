@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing 2/20 at 1:00 p.m. (Health and Government Operations)",
+    "date": "2025-02-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB0859"
+}

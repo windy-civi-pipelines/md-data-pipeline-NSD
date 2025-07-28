@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Unfavorable Report by Judiciary",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0649"
+}

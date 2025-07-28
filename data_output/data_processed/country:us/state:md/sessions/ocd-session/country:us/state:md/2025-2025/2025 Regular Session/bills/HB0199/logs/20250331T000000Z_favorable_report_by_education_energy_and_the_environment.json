@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Favorable Report by Education, Energy, and the Environment",
+    "date": "2025-03-31",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0199"
+}

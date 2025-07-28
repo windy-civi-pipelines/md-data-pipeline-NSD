@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House Recede",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB0093"
+}

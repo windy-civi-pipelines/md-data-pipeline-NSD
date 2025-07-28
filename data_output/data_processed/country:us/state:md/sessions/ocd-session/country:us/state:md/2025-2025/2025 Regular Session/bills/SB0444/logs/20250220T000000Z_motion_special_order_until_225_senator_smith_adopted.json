@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion Special Order until 2/25  (Senator Smith)  Adopted",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB0444"
+}

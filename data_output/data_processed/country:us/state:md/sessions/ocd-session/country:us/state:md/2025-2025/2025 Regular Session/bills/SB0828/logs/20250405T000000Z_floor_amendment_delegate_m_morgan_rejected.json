@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Floor Amendment  (Delegate M. Morgan)  Rejected",
+    "date": "2025-04-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB0828"
+}

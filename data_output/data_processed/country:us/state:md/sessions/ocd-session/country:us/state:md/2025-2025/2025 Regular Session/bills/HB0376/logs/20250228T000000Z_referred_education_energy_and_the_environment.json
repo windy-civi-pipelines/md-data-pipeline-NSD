@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred Education, Energy, and the Environment",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0376"
+}

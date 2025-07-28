@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by the Governor (Policy)",
+    "date": "2025-05-16",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB0980"
+}

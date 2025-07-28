@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Floor Amendment  (Delegate Buckel)  Rejected",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0829"
+}

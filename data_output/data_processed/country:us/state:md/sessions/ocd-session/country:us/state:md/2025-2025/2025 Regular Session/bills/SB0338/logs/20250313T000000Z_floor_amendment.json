@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Floor Amendment {",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB0338"
+}

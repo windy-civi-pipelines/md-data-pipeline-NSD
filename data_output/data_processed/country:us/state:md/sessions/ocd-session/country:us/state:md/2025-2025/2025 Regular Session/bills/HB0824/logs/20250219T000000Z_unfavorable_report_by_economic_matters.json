@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Unfavorable Report by Economic Matters",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0824"
+}

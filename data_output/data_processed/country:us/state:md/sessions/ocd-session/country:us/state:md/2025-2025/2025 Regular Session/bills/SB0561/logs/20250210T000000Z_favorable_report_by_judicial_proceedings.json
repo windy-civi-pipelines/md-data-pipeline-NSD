@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Favorable Report by Judicial Proceedings",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB0561"
+}

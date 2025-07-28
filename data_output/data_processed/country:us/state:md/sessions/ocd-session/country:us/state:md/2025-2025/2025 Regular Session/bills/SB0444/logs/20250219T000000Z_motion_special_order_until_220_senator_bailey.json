@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Motion Special Order until 2/20  (Senator Bailey)",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB0444"
+}

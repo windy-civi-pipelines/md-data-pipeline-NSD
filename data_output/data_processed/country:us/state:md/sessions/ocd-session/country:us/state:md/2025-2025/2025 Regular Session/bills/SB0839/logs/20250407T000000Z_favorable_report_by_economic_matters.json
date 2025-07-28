@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Favorable Report by Economic Matters",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB0839"
+}
